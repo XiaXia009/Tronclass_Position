@@ -1,0 +1,5 @@
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+numpy==1.26.4
+opencv-python==4.9.0.80
+pytesseract==0.3.10

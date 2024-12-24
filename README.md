@@ -1,6 +1,7 @@
 # 👾Tronclass_Position👾
 本來預計會在Tronclass_Bot上線  
-但我好累 所以有這個就好
+但我好累 所以有這個就好  
+這是Tronclass的定位點名  
   
 你會需要[ocr-tesseract](https://github.com/UB-Mannheim/tesseract/wiki) 並且需要把路徑加到環境變數💩
 
